@@ -1,6 +1,6 @@
 :root {
-  --color-primary: #13041f;
-  --color-secondary: #ff5e78;
+  --color-primary: #481a6d;
+  --color-secondary: #80dff9;
   --color-text-light: #fff;
   --color-text-dark: #0000;
 }
@@ -9,6 +9,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  background: #fecfcf;
 }
 
 html {

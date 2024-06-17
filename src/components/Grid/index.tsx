@@ -71,7 +71,7 @@ export function Grid({ cards }: GridProps) {
         <>
             <div className='text'>
                 <h1>Memory Game</h1>
-                <p>Moves: {moves} | Matches: {matches} | <button onClick={() => handleReset()}>Reset</button></p>
+                <p className="p">Moves: {moves} | Matches: {matches} | <button className="button" onClick={() => handleReset()}>Reset</button></p>
             </div>
             <div className='grid'>
                 {stateCards.map((card) => {
