@@ -20,7 +20,7 @@ export function Card({ flipped = false, back, handleClick, id }: CardProps) {
     return <div className="card" onClick={() => handleClickFn(id)}>
         <div className={cardContentClassNames.join(' ')}>
             <div className="card_face card_face--front">?</div>
-            <div className="card_face card_face--back"><img className="im" src={back} alt="" /></div>
+            <div className="card_face card_face--back"><img className="img" src={back} alt="" /></div>
         </div>
     </div>
 }
