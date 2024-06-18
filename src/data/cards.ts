@@ -1,50 +1,62 @@
 export const cards = [
     {
         id: '1',
-        back: '../../public/images/anexo.jpeg',
+        front: '../../public/images/logoGenshinAmarelo.png',
+        back: '../../public/images/Imagem20.jpg',
     },
     {
         id: '2',
-        back: '🍕',
+        front: '../../public/images/logoGenshinAmarelo.png',
+        back: '../../public/images/Imagem21.jpg',
     },
     {
         id: '3',
-        back: '🥐',
+        front:'../../public/images/logoGenshinAmarelo.png',
+        back: '../../public/images/Imagem22.jpeg',
     },
     {
         id: '4',
-        back: '😒',
+        front:'../../public/images/logoGenshinAmarelo.png',
+        back: '../../public/images/Imagem23.jpg',
     },
     {
         id: '5',
-        back: '💀',
+        front:'../../public/images/logoGenshinAmarelo.png',
+        back: '../../public/images/Imagem04.jpg',
     },
     {
         id: '6',
-        back: '👻',
+        front:'../../public/images/logoGenshinAmarelo.png',
+        back: '../../public/images/Imagem25.jpg',
     },
     {
         id: '7',
-        back: '🦖',
+        front:'../../public/images/logoGenshinAmarelo.png',
+        back: '../../public/images/Imagem32.jpeg',
     },
     {
         id: '8',
-        back: '🦊',
+        front:'../../public/images/logoGenshinAmarelo.png',
+        back: '../../public/images/Imagem27.jpg',
     },
     {
         id: '9',
-        back: '😒',
+        front:'../../public/images/logoGenshinAmarelo.png',
+        back: '../../public/images/Imagem28.png',
     },
     {
         id: '10',
-        back: '💀',
+        front:'../../public/images/logoGenshinAmarelo.png',
+        back: '../../public/images/Imagem29.jpeg',
     },
     {
-        id: '1',
-        back: '👻',
+        id: '11',
+        front:'../../public/images/logoGenshinAmarelo.png',
+        back: '../../public/images/Imagem30.jpeg',
     },
     {
         id: '12',
-        back: '🦖',
+        front:'../../public/images/logoGenshinAmarelo.png',
+        back: '../../public/images/Imagem31.jpg',
     },
 ];

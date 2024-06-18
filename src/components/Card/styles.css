@@ -37,12 +37,16 @@
     width: 100%;
     height: 100%;
 }
+.imgFront{
+    width: 80%;
+    height: 80%;
+}
 
 .button {
-    background-color: #FF7F7F;
+    background-color: #d59af4;
     border: 1px solid black; 
-    border-radius: 7px; 
-    color: rgb(4, 4, 4);
+    border-radius: 12px; 
+    color: rgb(57, 8, 84);
     font-weight: bold;
     padding: 5px 20px;
     text-align: center;
